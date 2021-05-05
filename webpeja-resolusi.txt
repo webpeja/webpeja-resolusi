@@ -1,0 +1,5 @@
+Resolusi 
+Buat Bab 1 - laravel dev 
+buat kontent 
+buat ui 
+buat db 
