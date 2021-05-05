@@ -3,3 +3,5 @@ Buat Bab 1 - laravel dev
 buat kontent 
 buat ui 
 buat db 
+membuat shopping chat 
+kolaborasi dgn expert team
