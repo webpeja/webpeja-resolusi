@@ -1,7 +1,7 @@
 Resolusi 
 Buat Bab 1 - laravel dev 
 buat kontent 
-buat ui 
+create theme donload dari git
 buat db 
 membuat shopping chat 
 kolaborasi dgn expert team
